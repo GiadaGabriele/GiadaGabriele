@@ -1,1 +1,1 @@
-<h2>👋 welcome to my GitHub page</h2>
+<h3>👋 welcome to my GitHub page</h3>
